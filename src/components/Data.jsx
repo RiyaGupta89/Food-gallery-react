@@ -1,0 +1,108 @@
+
+
+const Data = [{
+        id: 1,
+        text: "Maggi",
+        image: "images/maggi.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "12₹",
+        category: "supper",
+    },
+    {
+        id: 2,
+        text: "Aalu Pakode",
+        image: "images/pakode.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "20₹",
+        category: "breakfast",
+    },
+    {
+        id: 3,
+        text: "Corn",
+        image: "images/corn.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "10₹",
+        category: "breakfast",
+    },
+    {
+        id: 4,
+        text: "Chola",
+        image: "images/chola.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "50₹",
+        category: "lunch",
+    },
+    {
+        id: 5,
+        text: "Pizza",
+        image: "images/pizza.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "80₹",
+        category: "supper",
+    },
+    {
+        id: 6,
+        text: "Non-veg Thali",
+        image: "images/nonveg.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "100₹",
+        category: "dinner",
+    },
+    {
+        id: 7,
+        text: "sweets",
+        image: "images/sweets.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "20₹",
+        category: "dinner",
+    }, {
+        id: 8,
+        text: "samose",
+        image: "images/samosa.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "10₹",
+        category: "supper",
+    }, {
+        id: 9,
+        text: "rajma rice",
+        image: "images/rajma.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "50₹",
+        category: "lunch",
+    },
+    {
+        id: 10,
+        text: "chilli potato",
+        image: "images/chilli-potato.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "80₹",
+        category: "supper",
+    },
+    {
+        id: 11,
+        text: "french fries",
+        image: "images/fries.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "40₹",
+        category: "supper",
+    },
+    {
+        id: 12,
+        text: "noodles",
+        image: "images/noodles.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "50₹",
+        category: "dinner",
+    },
+    {
+        id: 13,
+        text: "ice cream",
+        image: "images/icecream.jpg",
+        para: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, enim.",
+        price: "50₹",
+        category: "dinner",
+    }
+]
+
+
+export default Data;
